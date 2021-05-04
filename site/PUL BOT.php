@@ -1,7 +1,7 @@
 <?php
 ob_start();
 define('API_KEY','1746664255:AAHGM2WVRShSk6VmQ1jp8ids4hzv3NvOx6w');
-$admin = "572730244";
+$admin = "1359653710";
 $arays = array($arays,$admin);
 $rasmiy_kanal = "@Shahruz_Norimmatov";
 $channel = "@python_darslarr";
